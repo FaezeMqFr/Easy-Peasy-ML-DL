@@ -1,6 +1,6 @@
 # Easy-Peasy ML&DL Repository
 
-![Easy-Peasy ML&DL](Logo.jfif)
+<img src="Logo.jfif" alt="Easy-Peasy ML&DL" width="200" height="200">
 
 Welcome to the Easy-Peasy ML&DL GitHub repository! This repository is designed to complement our Telegram channel, **Easy-Peasy ML&DL**, where we make Machine Learning and Deep Learning easy to learn with straightforward tutorials and engaging projects.
 
